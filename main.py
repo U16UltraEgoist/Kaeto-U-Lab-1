@@ -1,3 +1,7 @@
 print("Hello, World!")
 name = input("What is your name? ")
 print(f"Hello, {name}! Welcome to the program.")
+age = input("How old are you? ")
+print(f"Wow, {age} years old! That's great.")
+color = input("What is your favorite color? ")
+print(f"{color} is a beautiful color! Thank you for sharing, {name}.")
